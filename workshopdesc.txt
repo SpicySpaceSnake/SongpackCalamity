@@ -1,0 +1,81 @@
+[h1]Calamity Mod Themes for Instruments 0.8.0[/h1]
+adds several themes from Terraria's Calamity Mod to be played on instruments.
+[h3]Join the Discord![/h3]
+[url=https://discord.gg/4nN8KHBY6R]My personal Discord[/url] contains categories for things that I work on. I'd recommend joining if you're interested in seeing early previews of what's being worked on.
+
+[hr][/hr]
+[h2]Songs[/h2]
+Only tracks in [b]bold[/b] are currently implemented. For every track, there exists both a solo version and multiple band parts.
+[list]
+[*][b]01 - Guardian of the Former Seas[/b]
+[*][b]02 - sanctuary[/b]
+[*]03 - 1NF3$+@+!0N
+[*]04 - Blood Coagulant
+[*]05 - The Filthy Mind
+[*][b]06 - Return to Slime[/b]
+[*]07 - Antarctic Reinforcement
+[*][b]08 - The Step Below Hell[/b]
+[*][b]09 - Left Alone[/b]
+[*]10 - wasteland
+[*][b]11 - Hadopelagic Pressure[/b]
+[*][b]12 - R'LYEH[/b]
+[*][b]13 - void[/b]
+[*]14 - Outcast of the Sulphurous Seas
+[*][b]15 - Raw, Unfiltered Calamity[/b]
+[*][b]16 - The Leviathan Trilogy[/b]
+[*]17 - The Heaven-Sent Abomination
+[*]18 - Treasures Within the Abomination
+[*]19 - Interstellar Stomper
+[*]20 - Pest of the Cosmos
+[*]21 - Fly of Beelzebub
+[*][b]22 - Open Frenzy[/b]
+[*][b]23 - Unholy Ambush[/b]
+[*][b]24 - Unholy Insurgency[/b]
+[*][b]25 - Feral Amalgamation[/b]
+[*]26 - Servants of the Scourge
+[*][b]27 - Scourge of the Universe[/b]
+[*][b]28 - Universal Collapse[/b]
+[*]29 - Devourer of Gods (Nonstop Mix)
+[*][b]30 - Murderswarm[/b]
+[*]31 - Infernal Catharsis
+[*][b]32 - Infernal Catharsis (Rebirth)[/b]
+[*][b]33 - Roar of the Jungle Dragon[/b]
+[*][b]34 - Stained, Brutal Calamity[/b]
+[*][b]35 - The Tale of a Cruel World[/b]
+[*][b]36 - Silence Before the Storms[/b]
+[*]37 - Storms Before the Catastrophe
+[*]38 - Catastrophes Before the Calamity
+[*][b]39 - Tyrant (Part 1)[/b]
+[*]40 - Blessing of the Moon
+[*]41 - Threats of the Ocean Floor
+[*][b]42 - Heaven's Hell-Sent Gift[/b]
+[*]43 - Cosmic Disgust
+
+[hr][/hr]
+[h2]Is this mod compatible with X?[/h2]
+Song mods are bafflingly simple and do nothing except stick .abc files in the 'songs' folder.
+The most breakage you'll get is if another mod happens to also have a song file with the exact same name. In this case, the mod that loads last will simply override it.
+
+[b]Found a bug? Leave a comment or start a discussion![/b]
+
+[hr][/hr]
+[h2]How often does this mod update?[/h2]
+This mod is currently discontinued.
+I may decide to do surprise updates if I'm bored, but don't hold your breath!
+
+[b]CURRENT FOCUS:[/b] none
+[b]CURRENT STATUS:[/b] being passively maintained
+
+[h2]Credits go to[/h2]
+[*][b]SpicySpaceSnake[/b] ([url=https://spicyspacesnake.carrd.co/]that's me![/url]): main transcriber and .abc file assembler
+[*][b]DM DOKURO[/b] ([url=https://soundcloud.com/dm-dokuro]Soundcloud[/url], [url=https://www.youtube.com/channel/UC6-OiaulQM8w6EAYaCNpoGg]Youtube[/url], [url=https://dmdokuro.bandcamp.com/album/the-tale-of-a-cruel-world]Bandcamp[/url]): original music
+[*]Due to my poor recordkeeping skills in previous years, as well as many old links that are now broken, I have no accurate records of other transcription authors. Nevertheless, thanks to the many people I've drawn from!
+[h3]And a special thanks to[/h3]
+[list]
+[*][b]All of my partners[/b], for being a bunch of absolutely amazing people
+[*][b]Najja/Dyalt, Kirisis, and many others[/b] that I've either worked with or gotten advice from, for their previous and continued support
+
+[*]and [b]YOU[/b], for taking the time to check out this mod!
+[/list]
+
+Please be sure to rate on your way out, and share this with anyone you think might like it. Happy Starbounding!
